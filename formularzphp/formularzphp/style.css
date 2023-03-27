@@ -1,0 +1,39 @@
+.boxlog{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 200px;
+    width: 300px;
+    background-color: rgb(250, 235, 226);
+}
+h1{
+    text-align: center;
+}
+.box{
+    display: flex;
+    justify-content: center;
+}
+input[type="text"]{
+    margin: 7px;
+    padding: 3px;
+}
+input[type="password"]{
+    margin: 7px;
+    padding: 3px;
+}
+.boxreg{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 250px;
+    width: 300px;
+    background-color: rgb(250, 235, 226);
+}
+label{
+    margin: 20px;
+}
+input[type="submit"]{
+    margin-left: 100px;
+    margin-top: 20px;
+    padding: 10px;
+}
